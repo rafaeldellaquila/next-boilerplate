@@ -1,5 +1,5 @@
 #!/bin/sh
 
 . "$(dirname "$0")/_/husky.sh"
-chmod +x
-npx --no-install lint-staged
+
+chmod +x npx --no-install lint-staged
