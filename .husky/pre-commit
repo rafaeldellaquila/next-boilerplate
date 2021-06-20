@@ -2,4 +2,6 @@
 
 . "$(dirname "$0")/_/husky.sh"
 
-chmod +x npx --no-install lint-staged
+chmod ug+x .husky/*
+chmod ug+x .git/hooks/*
+npx --no-install lint-staged
