@@ -1,0 +1,9 @@
+{
+  "name": "Boilerplate do Rafa",
+  "short_name": "Boilerplate",
+  "background_color": "#00001b",
+  "description": "Boilerplate utilizando Typescript, React, NextJS e Styled Components!",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#00001b"
+}
